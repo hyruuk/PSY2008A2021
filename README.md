@@ -12,6 +12,8 @@ Liste des activités pratiques :
   - Présentation de MNE-Python et de sa logique de fonctionnement. Survol des objets et fonctions de base (ex. ouvrir/visualiser les données)
 - AP2 - Pré-traîtement (nettoyage) des données MEG et EEG
   - Mise en place d'un *pipeline* de nettoyage de données électrophysiologiques, incluant filtrage, ICA et estimation automatique des seuils de réjection.
-- AP3 - soon...
-
+- AP3 - Analyses d'oscillations et de potentiels évoqués
+  - Introduction aux outils de base permettant de faire la segmentation des données ainsi que le calcul des potentiels évoquées et des oscillations.
+- AP4 - Apprentissage machine et classification d'ondes cérébrales
+  - Exemple d'application de l'apprentissage automatique à l'analyse de données cérébrales. Classification gauche vs droite dans une expérience de présentation visuelle.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hyruuk/PSY2008A2021/HEAD)
